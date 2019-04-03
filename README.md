@@ -20,5 +20,6 @@ Results:
 2. test accuracy of BiLSTM： 0.92
 3. test accuracy of LSTMCRF: 0.94
 4. test accuracy of BiLSTMCRF:0.95
+
 Conclusion: BiLSTM+CRF outperforms than other three models
 
