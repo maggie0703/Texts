@@ -2,23 +2,17 @@
 Data From NLTK Brown corpora
 
 Summary:
-1.Preprocess_data.py:
-load data, split data, create word embedding and one hot encoding for tags 
+1.Preprocess_data.py: load data, split data, create word embedding and one hot encoding for tags 
 
-2. Config_.py:
-define parameters
+2. Config_.py: define parameters
 
-3.Train.py:
-Train model and saved model
+3.Train.py:t rain model and saved model
 
-4.Test.py:
-Apply model to test data
+4.Test.py: apply model to test data
 
-5.Input.py:
-input a sentence to test to obtain output
+5.Input.py:input a sentence to test to obtain output
 
-6. lstm.py, bilstm.py, lstmcrf, bilstmcrf.py:
-4 models contains: LSTM model, BiLSTM model, LSTM_CRF. amd BiLSTM_CRF
+6. lstm.py, bilstm.py, lstmcrf, bilstmcrf.py: 4 models contains: LSTM model, BiLSTM model, LSTM_CRF. amd BiLSTM_CRF
 
 Results:
 1. test accruacy of LSTM:0.90
