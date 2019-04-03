@@ -2,6 +2,7 @@
 Data From NLTK Brown corpora
 
 Summary:
+
 1.Preprocess_data.py: load data, split data, create word embedding and one hot encoding for tags 
 
 2.Config_.py: define parameters
