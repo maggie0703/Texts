@@ -13,7 +13,7 @@ Summary:
 
 5.Input.py:input a sentence to test to obtain output
 
-6.lstm.py, bilstm.py, lstmcrf, bilstmcrf.py: 4 models contains: LSTM model, BiLSTM model, LSTM_CRF. amd BiLSTM_CRF
+6.lstm.py, bilstm.py, lstmcrf, bilstmcrf.py: 4 models contains: LSTM model, BiLSTM model, LSTM_CRF model. and BiLSTM_CRF model
 
 Results:
 1. test accruacy of LSTM:0.90
